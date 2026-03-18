@@ -8,7 +8,7 @@ We have the objective of ofering an opensource solution that adapts to the commu
 We looking to offer full compatibility between popular \(And not that popular but similar\) operative systems, as one of our objectives is accesibility. In addition, we are planning to offer various methods to install Framewase, which are: Linux Package Managers \(APT, DNF, YUM, PACMAN & FLATPAK\), Windows installer \(with EXE file extension\), and MacOS Installer \(with DMG file extension\).
 
 # \[WIP\] What should be my firsts steps with Framewase?
-We offer a manual that guides and helps new and experienced developers to realise their proyects.
+We aiming to offer a manual that guides and helps new and experienced developers to realise their proyects.
 
 We are also planning to develop a blog and videotutorial topic for a more casual and visual aid to guide and help developers as well as promote our framework.
 
