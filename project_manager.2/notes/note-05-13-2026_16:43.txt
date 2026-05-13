@@ -1,0 +1,4 @@
+[TASK]
+Make the GUI before all other features.
+
+The user interface needs to be easy and intuitive by design :)
